@@ -4,7 +4,7 @@ import PackageDescription
 let package = Package(
     name: "SwiftUISPMDemo",
     platforms: [
-        .macOS(.v13), .iOS(.v17)
+        .macOS(.v13), .iOS(.v16)
     ],
     products: [
         .executable(
